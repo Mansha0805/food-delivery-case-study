@@ -135,7 +135,7 @@ python --version
 1. **Clone the repository**
 ```bash
 git clone https://github.com/Mansha0805/food-delivery-case-study.git
-cd food-delivery-analysis
+cd food-delivery-case-study
 ```
 
 2. **Install Python dependencies**
